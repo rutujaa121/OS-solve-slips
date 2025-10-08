@@ -57,7 +57,7 @@ void main()
 	printf("After Sorting ");
 	for(i=0;i<n;i++)
 	{
-		printf("\n%d\t%d\t%d",p[i],at[i],bt[i]);
+		printf("p\n%d\t%d\t%d",p[i],at[i],bt[i]);
 	}
 	wt[0]=0;
 	for(i=0;i<n;i++)
